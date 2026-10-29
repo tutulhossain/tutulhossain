@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites**
 
-- 👨‍💻 All of my projects are available at [https://tutulhossain.github.io/portfolio/][https://tutulhossain.github.io/portfolio/]
+- 👨‍💻 All of my projects are available at [Tutul Portfolio](https://tutulhossain.github.io/portfolio/)
 
 - 💬 Ask me about **Professional Web Designer & Developer | WordPress & WooCommerce Expert**
 
